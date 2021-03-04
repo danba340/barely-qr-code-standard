@@ -6,7 +6,7 @@ function App() {
       <div id="qr">
         <img id="doge" src={doge} alt="doge" />
       </div>
-      <input type="text" />
+      <input className="text-input" type="text" />
     </div>
   );
 }
